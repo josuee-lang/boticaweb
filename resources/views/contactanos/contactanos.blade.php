@@ -27,8 +27,8 @@
             z-index: 9999;
             cursor: pointer;
             transition: transform 0.3s;
-            width: 50px;
-            height: 50px;
+            width: 80px;
+            height: 80px;
         }
 
         .whatsapp-float img {
@@ -186,7 +186,7 @@
                     <div class="contact__content">
                         <!-- Borde y la imagen como icono encima de la sección de información de contacto -->
                         <div class="contact__header">
-                            <img src="imagenes/logo.png" alt="Icono de Contacto" class="contact__icon" /> <!-- Aquí va tu imagen -->
+                            <img src="imagenes/botica2.png" alt="Icono de Contacto" class="contact__icon" /> <!-- Aquí va tu imagen -->
                         </div>
 
                         <div class="contact__address">

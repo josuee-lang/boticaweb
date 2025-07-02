@@ -21,7 +21,7 @@
               </div>
               <div class="about-text footer-item-content">
                 <p>
-                  <b>Description of the company goes here.</b>
+                  <b>EL ERIK NO HACE NI MRD ES UNA CAGADA ESA HUEVADAAAA ESE GIL MAS VAGO .</b>
                 </p>
               </div>
             </div>

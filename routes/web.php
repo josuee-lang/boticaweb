@@ -8,6 +8,8 @@ use App\Http\Controllers\CartController;
 
 use App\Http\Controllers\ProductoController;
 
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -44,3 +46,8 @@ Route::get('/productos/especificaciones/{id}', [ProductoController::class, 'espe
 Route::post('/agregar-carrito/{id}', [CartController::class, 'agregar'])->name('carrito.agregar');
 Route::get('/carrito', [CartController::class, 'mostrar'])->name('carrito.mostrar');
 Route::post('/carrito/eliminar/{id}', [CartController::class, 'eliminar'])->name('carrito.eliminar');
+
+
+
+
+Route::post('/carrito/actualizar/{id}', [CartController::class, 'actualizar'])->name('carrito.actualizar');
